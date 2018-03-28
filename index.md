@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GSHS Turing
 
 You can use the [editor on GitHub](https://github.com/gshs-turing/gshs-turing.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
